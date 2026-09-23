@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Configuración local y secretos
+.env
+.env.*
+
+# Copias de seguridad locales
+*.old
+
+# Algunos archivos de notas y de jupyter
+notas/
+.ipynb_checkpoints/

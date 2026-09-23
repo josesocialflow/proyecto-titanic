@@ -1,0 +1,7 @@
+# Dependencias del proyecto
+
+streamlit
+pandas
+plotly
+joblib
+scikit-learn
