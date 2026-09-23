@@ -48,6 +48,10 @@ El proyecto no se limita a entrenar un modelo: conecta limpieza de datos, creaci
 - Predicción de probabilidad de supervivencia en tiempo real.
 - Explicación contextual de los factores relevantes para el resultado.
 
+## 🚀 Demo
+
+[👉 **Probar la aplicación en Streamlit**](https://proyecto-titanic.streamlit.app/)
+
 ## 🏗️ Arquitectura
 
 ```text
