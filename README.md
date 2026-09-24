@@ -52,6 +52,10 @@ El proyecto no se limita a entrenar un modelo: conecta limpieza de datos, creaci
 
 [👉 **Probar la aplicación en Streamlit**](https://proyecto-titanic.streamlit.app/)
 
+## ▶️ Youtube
+
+[👉 **Ver el video del proyecto**](https://youtu.be/lN9bZSHNfTU)
+
 ## 🏗️ Arquitectura
 
 ```text
